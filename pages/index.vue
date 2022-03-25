@@ -36,7 +36,7 @@
     </div>
 
     <div class="tile is-child box img-wrapper">
-      <a href="https://drive.google.com/file/d/1CdxeHdcvTlyDoOdlosSqctFEEILlcExZ/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/11yNroh39ojR8wKA7VWCEMbb7Eza34a3P/view?usp=sharing" target="_blank">
       <img src="https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/web_dev_pillar_page.jpg" alt="Placeholder image">
       <p class="fade">Techical Support Experience</p>
       </a>
