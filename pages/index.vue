@@ -9,7 +9,7 @@
                         </div>
                     </span>
                     <span class="site-description anim-typewriter-2" >I am a self-taught programmer.</span>
-                    <p style="color: #818189; margin: 24px auto 0; text-align: center; max-width: 500px; animation: pulse 5s infinite;">I'm building an app called <a href="/" target="_blank">Awesome Weather</a> using Nuxt.js</p>
+                    <p style="color: #818189; margin: 24px auto 0; text-align: center; max-width: 500px; animation: pulse 5s infinite;">I'm building an app called <a href="https://622642bd21e25400081c33ab--dreamy-kowalevski-d8afe7.netlify.app" target="_blank">Awesome Weather</a> using Nuxt.js</p>
                     <br>
                     <div>
 <a href="https://twitter.com/Minh17234068?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
