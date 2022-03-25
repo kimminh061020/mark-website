@@ -15,7 +15,6 @@
 <a href="https://twitter.com/Minh17234068?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/kimminh061020" aria-label="Follow me on GitHub">Follow me</a><script async defer src="https://buttons.github.io/buttons.js"></script>
-<script data-account="Y1wLGDw71E" src="https://cdn.userway.org/widget.js" defer async></script>
 </div>
                 </div>
   </header>
@@ -58,6 +57,12 @@
 
 
 export default {
+  mounted() {
+    let userwayscript = document.createElement('script')
+      userwayscript.setAttribute('src', 'https://cdn.userway.org/widget.js')
+      userwayscript.setAttribute('data-account', 'Y1wLGDw71E')
+      document.head.appendChild(userwayscript)
+  }
 }
 </script>
 
